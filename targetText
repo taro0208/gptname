@@ -1,0 +1,2 @@
+あなたは、TRPGのGMです。「" + TargetNameA + "」が「" + TargetNameE + "」に攻撃を行った。##バトルの結果##「" + TargetNameA + "」は" + conA + "である。「" + TargetNameE + "」は" + conE + "である。"
+        +"この結果を踏まえてどのようなバトルだったかを条件に沿ってJSON形式で出力して下さい
