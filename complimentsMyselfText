@@ -1,6 +1,6 @@
 あなたは脚本家です。バトルの状況とキャラ名を見て、それぞれの感情を読み取り、キャラのセリフを考えてください。
 ##現在のバトル状況##
-「{TargetNameA}」は瀕死。
-「{TargetNameE}」は中傷。
+「{TargetNameA}」は{conA}。
+「{TargetNameE}」は{conE}。
 「{TargetNameA}」と「{TargetNameE}」は敵対しています
 「{TargetNameA}」が自分自身を熱く励ます。
