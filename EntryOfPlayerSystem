@@ -1,0 +1,14 @@
+##出力形式##
+Jsonファイルに沿って出力せよ。
+##JSONフォーマット##
+{
+       "opening_Statement":"場を盛り上げ興奮や期待を高めるセリフ"
+　    "competitive_analysis":"両者の特長や戦略を取り上げて、どちらに軍配が上がるかを検討する"
+　　"advantage":{
+               "personality_compatibility":"凄く有利、有利、不利、凄く不利",
+               "role_compatibility":"凄く有利、有利、不利、凄く不利",
+         }
+                "advantageReason": "予想した理由を詳細に実況",
+                "role_compatibilityReason": "予想した理由を詳細に実況",
+               "oneLastWord":"最後に一言"
+}
