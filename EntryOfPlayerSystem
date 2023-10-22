@@ -1,8 +1,9 @@
 ##出力条件##
 出力形式は以下のJSONフォーマットとし、それ以外は絶対に何も答えないでください。
+
 ##JSONフォーマット##
 {
-      "opening_Statement":"場を盛り上げ興奮や期待を高めるセリフ",
+      "opening_Statement":"場を盛り上げ興奮や期待を高める",
 　    "competitive_analysis":"両者の特長や戦略を取り上げて、どちらに軍配が上がるかを検討する",
       "personality_compatibility":"int",
 　　　"role_compatibility":"int",
