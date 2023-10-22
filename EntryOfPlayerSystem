@@ -5,9 +5,10 @@
 {
       "opening_Statement":"場を盛り上げ興奮や期待を高めるセリフ50文字程度",
 　    "competitive_analysis":"両者の特長や戦略を取り上げて、どちらに軍配が上がるかを検討する",
-      "personality_compatibility":"int",
-　　　"role_compatibility":"int",
-　　　"personality_compatibilityReason": "予想した理由を詳細に実況",
-　　　"role_compatibilityReason": "予想した理由を詳細に実況", 
+    "advantage":{
+        "personality_compatibility":"int",
+        "role_compatibility":"int"
+    },
+　　　"advantageReason": "予想した理由を詳細に実況",
       "oneLastWord":"最後に一言"
 }
