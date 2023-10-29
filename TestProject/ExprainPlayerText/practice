@@ -1,4 +1,6 @@
 {
     "textToShowToPlayer": "ようこそ、ゲームの世界へ。",
-    "exampleEntry": "名前/性別/年齢と入力してください"
+    "exampleEntry": "名前/性別/年齢と入力してください",
+    "jsonFormat":"ここにGPTに送るフォーマットを記入",
+    "entryFormat":"プレイヤーの入力フォーマット"
 }
